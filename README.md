@@ -11,7 +11,7 @@ test 02 von carrara
   <style>
     :root {
       --accent:#006d77;
-      --bg:#f8fafc; 
+      --bg:#f8fafc;
       --fg:#1e293b;
       --radius:1.5rem;
       --shadow:0 15px 25px -10px rgba(0,0,0,.15);
@@ -95,4 +95,3 @@ test 02 von carrara
   </footer>
 </body>
 </html>
-
